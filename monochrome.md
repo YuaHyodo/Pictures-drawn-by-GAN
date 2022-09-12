@@ -13,3 +13,11 @@
 # 白黒積乱雲
 - 「なんかモクモクしてるなー」というレベルのクオリティ<br>
 ![DC_mono_CB1_最終](https://user-images.githubusercontent.com/66828980/189142767-739d8173-9ef2-42de-9988-d5771f6edf7f.png)
+
+# 将棋の歩兵
+- 遠目に見ると割と見える<br>
+![将棋駒_歩](https://user-images.githubusercontent.com/66828980/189670488-c920f4bc-3b02-4328-9e1e-481adbc929d5.png)
+
+# チェスのポーン
+- 良い出来栄え<br>
+![chess_pawn1](https://user-images.githubusercontent.com/66828980/189670576-4bb84dc7-32a1-4187-a6c1-e6415fb02170.png)
