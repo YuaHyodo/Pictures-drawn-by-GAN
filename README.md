@@ -17,6 +17,8 @@
 - 以下のファイルがある
 ```
 ・Saturn.h5: 白黒土星
+・shogi_pawn.h5: 将棋の歩兵(白黒画像)
+・chess_pawn.h5: チェスのポーン(白黒画像)
 ```
 
 ## color-cumulonimbus-cloud.md
